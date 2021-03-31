@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "col1s",
+  "info": {
+    "name": "col1"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "descr": {
+      "type": "richtext"
+    }
+  }
+}
